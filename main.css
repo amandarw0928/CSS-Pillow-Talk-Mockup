@@ -1,7 +1,7 @@
-/*
+
 * {
     border: 1px solid mediumvioletred;
-}*/
+}
 
 img {
     width: 100px;
@@ -45,6 +45,7 @@ header h1 {
 header div:last-child {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
 }
 
 .container {
