@@ -1,0 +1,24 @@
+* {
+    border: 1px solid mediumvioletred;
+}
+
+img {
+    width: 100px;
+}
+
+body {
+    background-color: snow;
+    color: slategray;
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+h2 {
+    font-size: 1em;
+}
+h1 {
+    font-family: 'Fredoka One', cursive;
+}
